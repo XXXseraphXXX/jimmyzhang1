@@ -24,8 +24,9 @@
                 </tr>
             </thead>
         </table>
-        <h1>
+        <h1>Welcome to my Page!
         </h1>
-        
+        <p> welcome to this website where everything here will be about me. 
+        </p>
     </body>
 </html>
